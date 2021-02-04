@@ -8,7 +8,7 @@ Dark Mode
 High Contrast Mode
 I will say this is not Cireson code and will not be supported by Cireson, but I am looking to gather feedback around this customisation so that I can gauge interest and adoption. This feature may become a future add-in to provide a more robust and manageable solution
 
-The installation is simple, copy the folder inside the attached .zip folder into your customspace and add this line into your custom.js file:
+The installation is simple, copy the folder named 'AccessibilitySettings' inside the attached .zip folder into your customspace and add this line into your custom.js file:
 
 loadScript("/CustomSpace/AccessibilitySettings/AccessibilitySettings.js",['']);
 
