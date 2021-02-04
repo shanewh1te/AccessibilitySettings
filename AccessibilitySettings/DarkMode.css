@@ -1,0 +1,1115 @@
+#body.DarkMode {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode #main_wrapper {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .search-wrapper {
+    border: none;
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-autocomplete {
+    background-color: var(--shade-lighter-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-textbox {
+    background-color: var(--shade-lighter-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode #facetedSearch {
+    background-color: var(--shade-lighter-d) !important;
+    top: -1px;
+}
+
+.DarkMode .form-group > a {
+    color: var(--branded-color-d);
+}
+
+
+.DarkMode .form-group > input {
+    background-color: var(--shade-lighter-d);
+    color: var(--main-text-color-d);
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .form-group > textarea {
+    background-color: var(--shade-lighter-d);
+    color: var(--main-text-color-d);
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .form-control .k-input::placeholder {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .form-control.form-control-picker.input-sm {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .form-control {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .form-control, .DarkMode output {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .form-control.ng-pristine .k-input::placeholder {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .input-group > input::placeholder {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .cs-form__enum--dropdown {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .dropdown-toggle {
+    background-color: var(--shade-lighter-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .navbar {
+    background-color: var(--main-bg-color-d);
+}
+
+.DarkMode .navbar-right > li:hover > a {
+    background-color: var(--branded-color-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .navbar-nav > li {
+    background-color: var(--main-bg-color-d);
+}
+
+.DarkMode .global-search__header {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .global-search__header > a {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .global-search__header__form__input::placeholder {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .global-search__header__form__input {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .link:visited, .DarkMode a:visited {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .sub_panel {
+    background-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode #side_nav {
+    background-color: var(--main-bg-color-d);
+}
+
+.DarkMode #side_nav > ul > li.nav_active > a {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .sidebar-bg-color > li {
+    background-color: var(--main-bg-color-d);
+}
+
+.DarkMode .side_inner.ps-ready.ps-container {
+    background-color: var(--main-bg-color-d);
+}
+
+.DarkMode .sidebar-bg-color.ps-ready.ps-container {
+    background-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .sidebar-right {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode li.nav_open > a {
+    background-color: var(--shade-darker-d) !important;
+}
+
+.DarkMode .panel_heading {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .nav-icon-color {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .defined-form .k-datetimepicker .k-select span.k-icon.k-i-calendar:before, .DarkMode .defined-form .k-datetimepicker .k-select span.k-icon.k-i-clock:before {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .page_title {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .grid-container {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode #facetedSearch-list {
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-list-container {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-list-container.k-popup.k-group.k-reset {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .k-popup .k-list > .k-state-selected.k-state-focused {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-popup .k-list .k-state-focused, .DarkMode .k-popup .k-list .k-state-hover, .DarkMode .k-popup .k-list > .k-state-selected.k-state-hover {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-list-container ul.k-list li.k-state-hover {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .faceted-search-item.last-item > a {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .faceted-search-list {
+    background-color: var(--shade-lighter-d) !important;
+    color: var(--main-text-color-d);
+}
+
+.DarkMode #facetedSearch-list .k-list .k-item .faceted-search-list .faceted-search-item:hover {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+#facetedSearch-list .k-list .k-item .faceted-search-list .faceted-search-item .link:hover {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .k-item.k-state-default.k-first.k-tab-on-top.k-state-active {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-item.k-state-default.k-last.k-tab-on-top.k-state-active {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode #activity-tabstrip ul li i {
+    color: var(--branded-color-d);
+}
+
+.DarkMode #activity-tabstrip ul li.k-state-active i {
+    color: var(--main-bg-color-d);
+}
+
+.DarkMode .support-tools__widget {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .content-header__flyout {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .HardwareAsset .content-header {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .SoftwareAsset .content-header {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .Incident .content-header {
+    background-color: var(--WI-BannerIR-d);
+}
+
+.DarkMode .ServiceRequest .content-header {
+    background-color: var(--WI-BannerSR-d);
+}
+
+.DarkMode .ChangeRequest .content-header {
+    background-color: var(--WI-BannerCR-d);
+}
+
+.DarkMode .Problem .content-header {
+    background-color: var(--WI-BannerPR-d);
+}
+
+.DarkMode .content-header {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .content-header__main__title {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .content-header__main__breadcrumbs__link {
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode .k-grid-header {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-header {
+    background-color: var(--shade-darker-d) !important;
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-header.k-sorted {
+    background-color: var(--shade-darker-d) !important;
+}
+
+.DarkMode .k-header.input-userpicker {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .k-header > a {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-link.k-link-time {
+    background-color: transparent;
+}
+
+.DarkMode .k-link {
+    color: var(--main-text-color-d) !important;
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-link > i {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .mini-services > span {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .k-window, .DarkMode .k-window.k-state-focused {
+    border-color: var(--main-bg-color-d) !important;
+    background-color: var(--main-bg-color-d);
+}
+
+.DarkMode .k-window-title {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-window-content {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .window-buttons {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .modal-header {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .modal-body {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .modal-content {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .modal-footer {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-grouping-header {
+    background-color: var(--shade-lighter-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .search {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .search-title {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .fa-search {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .k-i-search {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .fa-minus {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .fa-plus {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .fa-info-circle {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .fa-home {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .fa-sun-o {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .fa-moon-o {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .fa-refresh {
+    color: var(--branded-color-d)
+}
+
+.DarkMode .fa-file-excel-o {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .fa-th-large {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .fa-arrows {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .fa-cog {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .userSettingsButton.fa.fa-cog {
+    color: var(--branded-color-d) !important;
+    background-color: transparent !important;
+}
+
+.DarkMode .userSettingsButton .k-link.k-state-active.k-state-border-down {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-menu > .k-state-hover {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .drawer-icon.fa.fa-cog {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .fa-trash {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .clearfix {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .nav-pills > li {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .nav-pills > li > a {
+    color: var(--main-text-color-d);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.DarkMode .nav-pills > li.active > a {
+    background-color: #131313;
+    color: var(--branded-color-d);
+}
+
+.DarkMode .nav-pills > li > a:hover {
+    background-color: var(--shade-lighter-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .status-pill {
+    background-color: var(--shade-darker-d);
+    border-color: var(--main-bg-color-d);
+    color: var(--branded-color-d) !important;
+    font-weight: bolder;
+}
+
+.DarkMode .checkbox-primary .checkbox-label:before {
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .checkbox-primary input[type=checkbox]:checked ~ .checkbox-label:before {
+    background-color: var(--branded-color-d);
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .checkbox input[type=checkbox]:checked + label:before {
+    background-color: var(--branded-color-d);
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .checkbox input[type=checkbox]:checked ~ .checkbox-label:before {
+    background-color: var(--branded-color-d) !important;
+}
+
+.DarkMode input:checked + .gs-slider {
+    background-color: var(--branded-color-d) !important;
+}
+
+.DarkMode .multiquery-select__checkbox--checked::before {
+    background-color: var(--branded-color-d);
+}
+
+.DarkMode .k-button {
+    background-color: var(--shade-lighter-d) !important;
+    color: var(--main-text-color-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-animation-container .k-filter-item button[type=submit]:hover {
+    background-color: var(--branded-color-d) !important;
+    color: var(--main-text-color-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-filterable.k-content {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .dropdowntree-button {
+    background-color: var(--shade-darker-d);
+    height: 17px;
+}
+
+.DarkMode .dropdown-menu {
+    background-color: var(--shade-lighter-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .dropdown-menu li a:hover {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .dropdown-menu.dropdown-menu-right > li > a {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .nav.sidenav.abn-tree > li > a {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .tree-label {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .caption {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .caption > a {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .link {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .k-in {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-treeview-lines {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-combobox {
+    background-color: var(--shade-darker-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-picker-wrap {
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-picker-wrap:hover {
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-dropdown-wrap {
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-dropdown-wrap:hover {
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-input {
+    background-color: var(--shade-lighter-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-input::placeholder {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-button:hover {
+    background-color: var(--branded-color-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode tbody[role=rowgroup] > tr {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode tbody[role=rowgroup] > tr > td {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-widget.k-grid.k-secondary.k-display-block.k-editable > table > tbody > .k-state-selected > td {
+    background-color: var(--shade-lighter-d) !important;
+    color: var(--main-text-color-d);
+}
+
+.DarkMode input:active, .DarkMode input:focus, .DarkMode input:hover, .DarkMode select:active, .DarkMode select:focus, .DarkMode select:hover, .DarkMode textarea:active, .DarkMode textarea:focus, .DarkMode textarea:hover {
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .table-picker {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .table-picker__list_details_container {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .k-widget.k-numerictextbox {
+    background-color: var(--shade-darker-d);
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-widget.k-listview {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-numeric-wrap {
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-numeric-wrap:hover {
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode tbody[role=rowgroup] > tr > td:hover {
+    background-color: var(--shade-lighter-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode tbody[role=rowgroup] > tr > td > a {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .k-multiselect-wrap {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-pager-wrap {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-state-selected td.grid-highlight-column {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-in.k-state-hover {
+    background-color: var(--shade-lighter-d) !important;
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode .k-in.k-state-selected {
+    background-color: var(--shade-lighter-d) !important;
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode .k-grid tr:hover td.grid-highlight-column {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-grid tr:hover td.grid-highlight-column-last {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-grid .k-state-selected td.grid-highlight-column-last {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-grid /*k-widget k-display-block k-reorderable*/ {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-pager-numbers > a {
+    background-color: var(--shade-darker-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-pager-numbers > li > a {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-pager-numbers > li > a:hover {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-state-selected {
+    background-color: var(--shade-darker-d);
+    border-color: var(--main-text-color-d);
+}
+
+.DarkMode .k-ext-treeview.k-treeview span.k-in.k-state-hover, .DarkMode .k-ext-treeview.k-treeview span.k-in.k-state-selected {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .drawer {
+    background-color: var(--main-bg-color-d);
+}
+
+.DarkMode .drawermenu-menuandbutton {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .drawermenu-title {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .drawertaskbar .drawertaskbar-commands .btn-link:active {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .drawertaskbar .drawertaskbar-commands .btn-link:focus {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .drawer-drawermenu .drawermenu-tile ul li:hover {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .drawer-drawermenu .drawermenu-tile ul li:hover > span {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .btn-lg > span {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .btn-link:hover {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .btn-search {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .search-directive .filter-toggle {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .btn-default {
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .btn-default:hover {
+    background-color: var(--branded-color-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .btn-clear-grid-filters:hover {
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode .btn-grid-export:hover {
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode .btn-eyeball-expand:hover {
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode .btn-eyeball-collapse:hover {
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode .btn-search:hover {
+    background-color: var(--branded-color-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .panel {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .panel-heading {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .panel.panel-widget .panel-heading {
+    background-color: var(--shade-darker-d) !important;
+}
+
+.DarkMode #activity-list {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .activity-view-container {
+    background-color: var(--shade-darker-d) !important;
+}
+
+.DarkMode .activity-item-header {
+    background-color: var(--shade-darker-d);
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .activity-item-header:hover {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .activity-item-body.form-group {
+    background-color: var(--shade-darker-d);
+    border: 1px solid var(--main-bg-color-d) !important;
+}
+
+.DarkMode .activityParentBox {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode span {
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode h1 {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode h2 {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode h3 {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode h4 {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode h4 > a {
+    color: var(--branded-color-d);
+}
+
+.DarkMode h5 {
+    color: var(--branded-color-d);
+}
+
+.DarkMode h5 > {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .drop-zone-element {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode a:link {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .link:active, .DarkMode .link:focus, .DarkMode .link:hover, .DarkMode a:active, .DarkMode a:focus, .DarkMode a:hover {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .thumbnail-caption {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .breadcrumb {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .breadcrumb > li > a {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .article-comment-rating {
+    border: 1px solid var(--main-bg-color-d) !important;
+}
+
+.DarkMode .article-comment-rating > div {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .article-comment-rating > h2 {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .field-validation-error {
+    background: #d30000;
+    border-color: black !important;
+}
+
+.DarkMode .sc-kanav > li > div > a {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .sc-kanav-home > li > div > a {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .sc-top-item-title {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .sc-item-title {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .sc-item-desc {
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode .k-scheduler .k-scheduler-toolbar .k-state-default a.k-link {
+    color: var(--branded-color-d);
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-scheduler-table {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-grid .k-state-selected td.grid-highlight-column-title {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .k-grid tr:hover td.grid-highlight-column-title {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .clearfix.ng-scope .pull-right > a {
+    color: var(--main-text-color-d);
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .panel-title.adf-widget-title.ng-binding.ng-scope > span > a {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .odata-search-toolbar {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .odata-search-toolbar > input {
+    background-color: var(--shade-lighter-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .odata-search-toolbar > input::placeholder {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .subnav_active a {
+    color: var(--branded-color-d) !important;
+    background-color: var(--shade-darker-d) !important;
+}
+
+.DarkMode .km-switch-label-on {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .km-switch-label-off {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .admin-contentarea > div > div > div > div > div > div > div > button {
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d);
+    color: var(--branded-color-d);
+}
+
+.DarkMode .admin-contentarea > div > div > div > div > div > div > div > button:hover {
+    background-color: var(--branded-color-d);
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .browse-file > b {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .multiquery-select__items {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .multiquery-select__items:hover {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .multiquery-selector__wrapper .k-list-scroller .k-state-hover {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .multiquery-select__items__name {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .multi-query__list__selected-items__name {
+    color: var(--branded-color-d);
+}
+
+.DarkMode .multiquery-select__items__details {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .multi-query__list__selected-items__details {
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .multi-query__list__selected-items {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .multi-query__list__selected-items__container {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-footer {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .drawertaskbar-newbutton:hover {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .btn-primary {
+    background-color: var(--shade-lighter-d);
+    border-color: var(--main-bg-color-d);
+}
+
+.DarkMode .btn-primary:hover {
+    background-color: var(--branded-color-d) !important;
+    border-color: var(--main-bg-color-d) !important;
+    color: var(--main-text-color-d) !important;
+}
+
+.DarkMode select.indented {
+    width: 47px;
+    text-indent: 0px;
+}
+
+.DarkMode .timeline-panel {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .timeline > li > .timeline-panel:after {
+    border-right: 15px solid var(--shade-lighter-d);
+}
+
+.DarkMode .k-scheduler {
+    background-color: var(--shade-lighter-d) !important;
+}
+
+.DarkMode .k-today {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .k-link.k-nav-day {
+    background-color: transparent;
+}
+
+.DarkMode .k-link.k-nav-day:hover {
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .k-scheduler-table td {
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-scheduler-table th {
+    border-color: var(--main-bg-color-d) !important;
+    color: var(--main-text-color-d);
+}
+
+.DarkMode .k-scheduler .k-scheduler-layout {
+    border-color: var(--main-bg-color-d) !important;
+}
+
+.DarkMode .k-header.k-scheduler-toolbar {
+    border-color: var(--main-bg-color-d) !important;
+    border-radius: 0px !important;
+}
+
+.DarkMode .k-nav-today, .DarkMode .k-nav-prev, .DarkMode .k-nav-next, .DarkMode .k-view-day, .DarkMode .k-view-week, .DarkMode .k-view-month, .DarkMode .k-view-agenda {
+    background-color: var(--shade-lighter-d) !important;
+    border-radius: 0px;
+}
+
+.DarkMode .k-scheduler-toolbar ul li.k-state-hover, .DarkMode .k-state-hover, .DarkMode .k-state-hover:hover {
+    border-color: var(--main-bg-color-d) !important;
+    color: var(--branded-color-d) !important;
+}
+
+.DarkMode .k-nav-current > a {
+    background-color: transparent !important;
+}
+
+.DarkMode .k-content.k-month, .DarkMode .k-content.k-month th {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .k-calendar-container .k-state-hover {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .navigation-node-treeview span.k-in {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .defined-form .action-log-comment {
+    background-color: var(--shade-lighter-d);
+}
+
+.DarkMode .modal-showtranslation input {
+    background-color: var(--shade-darker-d);
+}
+
+.DarkMode .navigation-node-details {
+    background-color: var(--shade-darker-d);
+}

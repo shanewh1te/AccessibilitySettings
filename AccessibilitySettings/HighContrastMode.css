@@ -1,0 +1,1193 @@
+#body.HighContrastMode {
+    background-color: var(--shade-darker-hc);
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode #main_wrapper {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .search-wrapper {
+    border: none;
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .k-autocomplete {
+    background-color: var(--shade-lighter-hc) !important;
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-textbox {
+    background-color: var(--shade-lighter-hc) !important;
+    border-color: var(--main-text-color-hc) !important;
+    color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode #facetedSearch {
+    background-color: var(--shade-lighter-hc) !important;
+    top: -1px;
+}
+
+.HighContrastMode .form-group > a {
+    color: var(--link-color-hc);
+}
+
+
+.HighContrastMode .form-group > input {
+    background-color: var(--shade-lighter-hc);
+    color: var(--main-text-color-hc);
+    border-color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .form-group > textarea {
+    background-color: var(--shade-lighter-hc);
+    color: var(--main-text-color-hc);
+    border-color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .form-control .k-input::placeholder {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .form-control.form-control-picker.input-sm {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .form-control {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .form-control, .HighContrastMode output {
+    color: var(--main-text-color-hc);
+}
+
+    .HighContrastMode .form-control.ng-pristine .k-input::placeholder {
+        color: var(--main-text-color-hc);
+    }
+
+.HighContrastMode .input-group > input::placeholder {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .cs-form__enum--dropdown {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .dropdown-toggle {
+    background-color: var(--shade-lighter-hc);
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .navbar {
+    background-color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .navbar-right > li:hover > a {
+    background-color: var(--hover-color-hc) !important;
+    border-color: var(--main-text-color-hc) !important;
+}
+
+    .HighContrastMode .navbar-right > li:hover > a > i {
+        color: var(--main-bg-color-hc);
+    }
+
+    .HighContrastMode .navbar-right > li:hover > a > span {
+        color: var(--main-bg-color-hc) !important;
+    }
+
+
+.HighContrastMode .navbar-nav > li {
+    background-color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .global-search__header {
+    background-color: var(--shade-lighter-hc);
+}
+
+    .HighContrastMode .global-search__header > a {
+        color: var(--link-color-hc);
+    }
+
+.HighContrastMode .global-search__header__form__input::placeholder {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .global-search__header__form__input {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode tbody[role=rowgroup] > tr > td:hover > div > div > div > span {
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .link:visited, .HighContrastMode a:visited {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .sub_panel {
+    background-color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode #side_nav {
+    background-color: var(--main-bg-color-hc);
+}
+
+    .HighContrastMode #side_nav > ul > li.nav_active > a {
+        background-color: var(--shade-darker-hc);
+    }
+
+.HighContrastMode .sidebar-bg-color > li {
+    background-color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .side_inner.ps-ready.ps-container {
+    background-color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .sidebar-bg-color.ps-ready.ps-container {
+    background-color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .sidebar-right {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode li.nav_open > a > span, .HighContrastMode li.nav_open > a > span > i {
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode li.nav_open > a {
+    background-color: var(--hover-color-hc) !important;
+}
+
+.HighContrastMode .panel_heading {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .nav-icon-color {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .defined-form .k-datetimepicker .k-select span.k-icon.k-i-calendar:before, .HighContrastMode .defined-form .k-datetimepicker .k-select span.k-icon.k-i-clock:before {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .page_title {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .grid-container {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode #facetedSearch-list {
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-list-container {
+    color: var(--link-color-hc);
+}
+
+    .HighContrastMode .k-list-container.k-popup.k-group.k-reset {
+        background-color: var(--shade-lighter-hc) !important;
+    }
+
+.HighContrastMode .k-popup .k-list > .k-state-selected.k-state-focused {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .k-popup .k-list .k-state-focused, .HighContrastMode .k-popup .k-list .k-state-hover, .HighContrastMode .k-popup .k-list > .k-state-selected.k-state-hover {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .k-list-container ul.k-list li.k-state-hover {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .faceted-search-item.last-item > a {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .faceted-search-list {
+    background-color: var(--shade-lighter-hc) !important;
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode #facetedSearch-list .k-list .k-item .faceted-search-list .faceted-search-item:hover {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc);
+}
+
+#facetedSearch-list .k-list .k-item .faceted-search-list .faceted-search-item .link:hover {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .k-item.k-state-default.k-first.k-tab-on-top.k-state-active {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-item.k-state-default.k-last.k-tab-on-top.k-state-active {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode #activity-tabstrip ul li i {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode #activity-tabstrip ul li.k-state-active i {
+    color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .support-tools__widget {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .content-header__flyout {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .HardwareAsset .content-header {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .SoftwareAsset .content-header {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .Incident .content-header {
+    background-color: var(--WI-BannerIR-hc);
+}
+
+.HighContrastMode .ServiceRequest .content-header {
+    background-color: var(--WI-BannerSR-hc);
+}
+
+.HighContrastMode .ChangeRequest .content-header {
+    background-color: var(--WI-BannerCR-hc);
+}
+
+.HighContrastMode .Problem .content-header {
+    background-color: var(--WI-BannerPR-hc);
+}
+
+.HighContrastMode .content-header {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .content-header__main__title {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .content-header__main__breadcrumbs__link {
+    color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-grid-header {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-header {
+    background-color: var(--shade-darker-hc) !important;
+    color: var(--main-text-color-hc);
+}
+
+    .HighContrastMode .k-header.k-sorted {
+        background-color: var(--shade-darker-hc) !important;
+    }
+
+    .HighContrastMode .k-header.input-userpicker {
+        background-color: var(--shade-lighter-hc) !important;
+    }
+
+    .HighContrastMode .k-header > a {
+        background-color: var(--shade-darker-hc);
+    }
+
+.HighContrastMode .k-link.k-link-time {
+    background-color: transparent;
+}
+
+.HighContrastMode .k-link {
+    color: var(--main-text-color-hc) !important;
+    background-color: var(--shade-lighter-hc);
+}
+
+    .HighContrastMode .k-link > i {
+        color: var(--link-color-hc);
+    }
+
+.HighContrastMode .mini-services > span {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .k-window, .HighContrastMode .k-window.k-state-focused {
+    border-color: var(--main-text-color-hc) !important;
+    background-color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .k-window-title {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-window-content {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .window-buttons {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .modal-header {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .modal-body {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .modal-content {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .modal-footer {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-grouping-header {
+    background-color: var(--shade-lighter-hc);
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .search {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .search-title {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .fa-search {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .k-i-search {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .fa-minus {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .fa-plus {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .fa-info-circle {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .fa-home {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .fa-sun-o {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .fa-moon-o {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .fa-refresh {
+    color: var(--link-color-hc)
+}
+
+.HighContrastMode .fa-file-excel-o {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .fa-th-large {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .fa-arrows {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .fa-cog {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .userSettingsButton.fa.fa-cog {
+    color: var(--link-color-hc) !important;
+    background-color: transparent !important;
+}
+
+.HighContrastMode .userSettingsButton .k-link.k-state-active.k-state-border-down, .HighContrastMode .k-menu > .k-state-hover {
+    background-color: var(--hover-color-hc) !important;
+}
+
+.HighContrastMode .userSettingsButton .k-link.k-state-active.k-state-border-down .fa-cog, .HighContrastMode .k-menu > .k-state-hover > .fa-cog{
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .drawer-icon.fa.fa-cog {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .fa-trash {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .clearfix {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .nav-pills > li {
+    background-color: var(--shade-darker-hc);
+}
+
+    .HighContrastMode .nav-pills > li > a {
+        color: var(--main-text-color-hc);
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .HighContrastMode .nav-pills > li.active > a {
+        background-color: var(--hover-color-hc);
+        color: var(--main-bg-color-hc);
+    }
+
+    .HighContrastMode .nav-pills > li > a:hover {
+        background-color: var(--hover-color-hc);
+        color: var(--main-bg-color-hc);
+    }
+
+.HighContrastMode .status-pill {
+    background-color: var(--shade-darker-hc);
+    border-color: var(--main-text-color-hc);
+    color: var(--link-color-hc) !important;
+    font-weight: bolder;
+}
+
+.HighContrastMode .checkbox-primary .checkbox-label:before {
+    background-color: var(--shade-lighter-hc);
+    border-color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .checkbox-primary input[type=checkbox]:checked ~ .checkbox-label:before {
+    background-color: var(--link-color-hc);
+    border-color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .checkbox input[type=checkbox]:checked + label:before {
+    background-color: var(--link-color-hc);
+    border-color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .checkbox input[type=checkbox]:checked ~ .checkbox-label:before {
+    background-color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode input:checked + .gs-slider {
+    background-color: var(--hover-color-hc) !important;
+}
+
+.HighContrastMode .multiquery-select__checkbox--checked::before {
+    background-color: var(--link-color-hc);
+}
+
+.HighContrastMode .k-button {
+    background-color: var(--shade-lighter-hc) !important;
+    color: var(--main-text-color-hc) !important;
+    border-color: var(--main-text-color-hc) !important;
+}
+
+    .HighContrastMode .k-button.active .fa, .HighContrastMode .k-button:active .fa, .HighContrastMode .k-button:focus .fa, .HighContrastMode .k-button:hover .fa {
+        color: var(--main-bg-color-hc);
+    }
+
+.HighContrastMode .k-animation-container .k-filter-item button[type=submit]:hover {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc);
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-filterable.k-content {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .dropdowntree-button {
+    background-color: var(--shade-darker-hc);
+    height: 17px;
+}
+
+.HighContrastMode .dropdown-menu {
+    background-color: var(--shade-lighter-hc);
+    color: var(--main-text-color-hc);
+}
+
+    .HighContrastMode .dropdown-menu li a:hover {
+        background-color: var(--hover-color-hc);
+    }
+
+    .HighContrastMode .dropdown-menu.dropdown-menu-right > li > a {
+        color: var(--main-text-color-hc);
+    }
+
+.HighContrastMode .nav.sidenav.abn-tree > li > a {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .tree-label {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .caption {
+    background-color: var(--shade-darker-hc);
+}
+
+    .HighContrastMode .caption > a {
+        color: var(--link-color-hc);
+    }
+
+.HighContrastMode .link {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .k-in {
+    background-color: var(--shade-darker-hc);
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .k-treeview-lines {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-combobox {
+    background-color: var(--shade-darker-hc) !important;
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-picker-wrap {
+    background-color: var(--shade-lighter-hc);
+    border-color: var(--main-text-color-hc) !important;
+}
+
+    .HighContrastMode .k-picker-wrap:hover {
+        background-color: var(--hover-color-hc);
+        border-color: var(--main-text-color-hc) !important;
+    }
+
+.HighContrastMode .k-dropdown-wrap {
+    background-color: var(--shade-lighter-hc);
+    border-color: var(--main-text-color-hc) !important;
+}
+
+    .HighContrastMode .k-dropdown-wrap:hover {
+        border-color: var(--main-text-color-hc) !important;
+    }
+
+.HighContrastMode .k-input {
+    background-color: var(--shade-lighter-hc) !important;
+    border-color: var(--main-text-color-hc) !important;
+    color: var(--main-text-color-hc);
+}
+
+    .HighContrastMode .k-input::placeholder {
+        color: var(--main-text-color-hc);
+    }
+
+.HighContrastMode .k-button:hover {
+    background-color: var(--hover-color-hc) !important;
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode tbody[role=rowgroup] > tr {
+    background-color: var(--shade-darker-hc);
+}
+
+    .HighContrastMode tbody[role=rowgroup] > tr > td {
+        background-color: var(--shade-darker-hc);
+        color: var(--main-text-color-hc);
+    }
+
+.HighContrastMode .k-widget.k-grid.k-secondary.k-display-block.k-editable > table > tbody > .k-state-selected > td {
+    background-color: var(--hover-color-hc) !important;
+    color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode input:active, .HighContrastMode input:focus, .HighContrastMode input:hover, .HighContrastMode select:active, .HighContrastMode select:focus, .HighContrastMode select:hover, .HighContrastMode textarea:active, .HighContrastMode textarea:focus, .HighContrastMode textarea:hover {
+    outline: var(--hover-outline-color-hc) !important;
+}
+
+.HighContrastMode .table-picker {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .table-picker__list_details_container {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .k-widget.k-numerictextbox {
+    background-color: var(--shade-darker-hc);
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-widget.k-listview {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-numeric-wrap {
+    background-color: var(--shade-lighter-hc);
+    border-color: var(--main-text-color-hc) !important;
+}
+
+    .HighContrastMode .k-numeric-wrap:hover {
+        border-color: var(--main-text-color-hc) !important;
+    }
+
+.HighContrastMode tbody[role=rowgroup] > tr > td:hover {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc) !important;
+}
+
+    .HighContrastMode tbody[role=rowgroup] > tr > td:hover > div > div > div {
+        color: var(--main-bg-color-hc) !important;
+    }
+
+    .HighContrastMode tbody[role=rowgroup] > tr > td:hover > div > div {
+        color: var(--main-bg-color-hc);
+    }
+
+        .HighContrastMode tbody[role=rowgroup] > tr > td:hover > div > div > div > strong > a {
+            color: var(--main-bg-color-hc);
+        }
+
+.HighContrastMode tbody[role=rowgroup] > tr > td > a {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .k-multiselect-wrap {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-pager-wrap {
+    background-color: var(--shade-darker-hc);
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .k-state-selected td.grid-highlight-column {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .k-in.k-state-hover {
+    background-color: var(--hover-color-hc) !important;
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .k-in.k-state-selected {
+    background-color: var(--hover-color-hc) !important;
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .k-grid tr:hover td.grid-highlight-column {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc);
+}
+
+    .HighContrastMode .k-grid tr:hover td.grid-highlight-column a {
+        color: var(--main-bg-color-hc) !important;
+    }
+
+.HighContrastMode .k-grid tr:hover td.grid-highlight-column-last {
+    background-color: var(--hover-color-hc);
+}
+
+.HighContrastMode .k-grid .k-state-selected td.grid-highlight-column-last {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc)
+}
+
+.HighContrastMode .k-grid .k-state-selected td.grid-highlight-column a {
+    background-color: var(--hover-color-hc);
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .k-grid /*k-widget k-display-block k-reorderable*/ {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-ext-treeview.k-treeview span.k-in.k-state-hover, .HighContrastMode .k-ext-treeview.k-treeview span.k-in.k-state-selected {
+    background-color: var(--hover-color-hc) !important;
+}
+
+.HighContrastMode .k-pager-numbers > a {
+    background-color: var(--shade-darker-hc);
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .k-pager-numbers > li > a {
+    background-color: var(--shade-darker-hc);
+}
+
+    .HighContrastMode .k-pager-numbers > li > a:hover {
+        background-color: var(--hover-color-hc);
+    }
+
+.HighContrastMode .k-state-selected {
+    background-color: var(--hover-color-hc);
+    border-color: var(--main-text-color-hc);
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .drawer {
+    background-color: var(--main-bg-color-hc);
+}
+
+.HighContrastMode .drawermenu-menuandbutton {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .drawermenu-title {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .drawertaskbar .drawertaskbar-commands .btn-link:active {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .drawertaskbar .drawertaskbar-commands .btn-link:focus {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .drawer-drawermenu .drawermenu-tile ul li:hover {
+    background-color: var(--hover-color-hc);
+}
+
+    .HighContrastMode .drawer-drawermenu .drawermenu-tile ul li:hover > span {
+        color: var(--main-bg-color-hc) !important;
+    }
+
+.HighContrastMode .btn-lg > span {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .btn-link:hover {
+    background-color: var(--hover-color-hc) !important;
+}
+
+    .HighContrastMode .btn-link:hover > span, .HighContrastMode .btn-link:hover > div {
+        color: var(--main-bg-color-hc) !important;
+    }
+
+.HighContrastMode .btn-search {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .search-directive .filter-toggle {
+    background-color: var(--shade-lighter-hc) !important;
+}
+
+.HighContrastMode .btn-default {
+    background-color: var(--shade-lighter-hc);
+    border-color: var(--main-text-color-hc);
+    color: var(--main-text-color-hc);
+}
+
+    .HighContrastMode .btn-default:hover {
+        background-color: var(--hover-color-hc) !important;
+        border-color: var(--main-text-color-hc) !important;
+    }
+
+.HighContrastMode .btn-clear-grid-filters:hover {
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .btn-grid-export:hover {
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .btn-eyeball-expand:hover {
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .btn-eyeball-collapse:hover {
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .btn-search:hover {
+    background-color: var(--hover-color-hc) !important;
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .panel {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .panel-heading {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .panel.panel-widget .panel-heading {
+    background-color: var(--shade-darker-hc) !important;
+}
+
+.HighContrastMode #activity-list {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .activity-view-container {
+    background-color: var(--shade-darker-hc) !important;
+}
+
+.HighContrastMode .activity-item-header {
+    background-color: var(--shade-darker-hc);
+    border-color: var(--main-text-color-hc);
+}
+
+    .HighContrastMode .activity-item-header:hover {
+        background-color: var(--hover-color-hc);
+    }
+
+.HighContrastMode .activity-item-body.form-group {
+    background-color: var(--shade-darker-hc);
+    border: 1px solid var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .activityParentBox {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode span {
+    color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode h1 {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode h2 {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode h3 {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode h4 {
+    color: var(--main-text-color-hc);
+}
+
+    .HighContrastMode h4 > a {
+        color: var(--link-color-hc);
+    }
+
+.HighContrastMode h5 {
+    color: var(--link-color-hc);
+}
+
+    .HighContrastMode h5 > {
+        color: var(--link-color-hc);
+    }
+
+.HighContrastMode .drop-zone-element {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode a:link {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .link:active, .HighContrastMode .link:focus, .HighContrastMode .link:hover, .HighContrastMode a:active, .HighContrastMode a:focus, .HighContrastMode a:hover, .HighContrastMode a:hover > span, .HighContrastMode a:hover > span > i {
+    color: var(--main-bg-color-hc) !important;
+    background-color: var(--hover-color-hc) !important;
+}
+
+    .HighContrastMode a:active > span > i, .HighContrastMode a:focus > span > i {
+        color: var(--main-bg-color-hc) !important;
+    }
+
+    .HighContrastMode a:active > span, .HighContrastMode a:focus > span {
+        color: var(--main-bg-color-hc) !important;
+    }
+
+.HighContrastMode .thumbnail-caption {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .breadcrumb {
+    background-color: var(--shade-darker-hc);
+}
+
+    .HighContrastMode .breadcrumb > li > a {
+        color: var(--link-color-hc);
+    }
+
+.HighContrastMode .article-comment-rating {
+    border: 1px solid var(--main-bg-color-hc) !important;
+}
+
+    .HighContrastMode .article-comment-rating > div {
+        background-color: var(--shade-darker-hc);
+    }
+
+    .HighContrastMode .article-comment-rating > h2 {
+        color: var(--main-text-color-hc);
+    }
+
+.HighContrastMode .field-validation-error {
+    background-color: #d30000;
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .sc-kanav > li > div > a {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .sc-kanav-home > li > div > a {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .sc-top-item-title {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .sc-item-title {
+    color: var(--link-color-hc) !important;
+}
+
+.HighContrastMode .sc-item-desc {
+    color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-scheduler .k-scheduler-toolbar .k-state-default a.k-link {
+    color: var(--link-color-hc);
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .k-scheduler-table {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .k-grid .k-state-selected td.grid-highlight-column-title {
+    background-color: var(--hover-color-hc) !important;
+}
+
+.HighContrastMode .k-grid tr:hover td.grid-highlight-column-title {
+    background-color: var(--hover-color-hc) !important;
+}
+
+.HighContrastMode .clearfix.ng-scope .pull-right > a {
+    color: var(--main-text-color-hc);
+    background-color: var(--shade-lighter-hc);
+    border-color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .panel-title.adf-widget-title.ng-binding.ng-scope > span > a {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .odata-search-toolbar {
+    background-color: var(--shade-lighter-hc);
+}
+
+    .HighContrastMode .odata-search-toolbar > input {
+        background-color: var(--shade-lighter-hc);
+        color: var(--main-text-color-hc);
+    }
+
+        .HighContrastMode .odata-search-toolbar > input::placeholder {
+            color: var(--main-text-color-hc);
+        }
+
+.HighContrastMode .subnav_active a {
+    color: var(--main-bg-color-hc) !important;
+    background-color: var(--hover-color-hc) !important;
+}
+
+.HighContrastMode .km-switch-label-on {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .km-switch-label-off {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .admin-contentarea > div > div > div > div > div > div > div > button {
+    background-color: var(--shade-lighter-hc);
+    border-color: var(--main-text-color-hc);
+    color: var(--link-color-hc);
+}
+
+    .HighContrastMode .admin-contentarea > div > div > div > div > div > div > div > button:hover {
+        background-color: var(--hover-color-hc);
+        color: var(--main-bg-color-hc);
+    }
+
+.HighContrastMode .browse-file > b {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .multiquery-select__items {
+    background-color: var(--shade-lighter-hc);
+}
+
+    .HighContrastMode .multiquery-select__items:hover {
+        background-color: var(--hover-color-hc);
+    }
+
+.HighContrastMode .multiquery-selector__wrapper .k-list-scroller .k-state-hover {
+    background-color: var(--hover-color-hc) !important;
+}
+
+.HighContrastMode .multiquery-select__items__name {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .multi-query__list__selected-items__name {
+    color: var(--link-color-hc);
+}
+
+.HighContrastMode .multiquery-select__items__details {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .multi-query__list__selected-items__details {
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .multi-query__list__selected-items {
+    background-color: var(--hover-color-hc);
+}
+
+.HighContrastMode .multi-query__list__selected-items__container {
+    background-color: var(--hover-color-hc);
+}
+
+.HighContrastMode .k-footer {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .drawertaskbar-newbutton:hover {
+    background-color: var(--hover-color-hc);
+}
+
+.HighContrastMode .btn-primary {
+    background-color: var(--shade-lighter-hc);
+    border-color: var(--main-text-color-hc);
+}
+
+    .HighContrastMode .btn-primary:hover {
+        background-color: var(--hover-color-hc) !important;
+        border-color: var(--main-text-color-hc) !important;
+        color: var(--main-bg-color-hc) !important;
+    }
+
+.HighContrastMode select.indented {
+    width: 47px;
+    text-indent: 0px;
+}
+
+.HighContrastMode .timeline-panel {
+    background-color: var(--shade-lighter-hc) !important;
+}
+
+.HighContrastMode .timeline > li > .timeline-panel:after {
+    border-right: 15px solid var(--shade-lighter-hc);
+}
+
+.HighContrastMode .k-scheduler {
+    background-color: var(--shade-lighter-hc) !important;
+}
+
+.HighContrastMode .k-today {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .k-link.k-nav-day {
+    background-color: transparent;
+}
+
+    .HighContrastMode .k-link.k-nav-day:hover {
+        color: var(--main-bg-color-hc) !important;
+    }
+
+.HighContrastMode .k-scheduler-table td {
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-scheduler-table th {
+    border-color: var(--main-text-color-hc) !important;
+    color: var(--main-text-color-hc);
+}
+
+.HighContrastMode .k-scheduler .k-scheduler-layout {
+    border-color: var(--main-text-color-hc) !important;
+}
+
+.HighContrastMode .k-header.k-scheduler-toolbar {
+    border-color: var(--main-text-color-hc) !important;
+    border-radius: 0px !important;
+}
+
+.HighContrastMode .k-nav-today, .HighContrastMode .k-nav-prev, .HighContrastMode .k-nav-next, .HighContrastMode .k-view-day, .HighContrastMode .k-view-week, .HighContrastMode .k-view-month, .HighContrastMode .k-view-agenda {
+    background-color: var(--shade-lighter-hc) !important;
+    border-radius: 0px;
+}
+
+.HighContrastMode .k-scheduler-toolbar ul li.k-state-hover, .HighContrastMode .k-state-hover, .HighContrastMode .k-state-hover:hover {
+    border-color: var(--main-text-color-hc) !important;
+    color: var(--main-bg-color-hc) !important;
+}
+
+.HighContrastMode .k-nav-current > a {
+    background-color: transparent !important;
+}
+
+.HighContrastMode .k-content.k-month, .HighContrastMode .k-content.k-month th {
+    background-color: var(--shade-lighter-hc);
+}
+
+.HighContrastMode .k-calendar-container .k-state-hover {
+    background-color: var(--hover-color-hc);
+}
+
+.HighContrastMode .form-control[disabled], .HighContrastMode input[disabled], .HighContrastMode .k-state-disabled {
+    color: #0f0 !important;
+    border: 1px solid #0f0 !important;
+}
+
+.HighContrastMode .navigation-node-treeview span.k-in {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .navigation-node-treeview span.k-in:hover > div > span {
+    color: var(--main-bg-color-hc) !important;
+}
+
+
+.HighContrastMode .defined-form .action-log-comment {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .defined-form .action-log-comment:hover {
+    background-color: var(--hover-color-hc);
+}
+
+.HighContrastMode .defined-form .k-detail-cell:hover .action-log-comment {
+    background-color: var(--hover-color-hc);
+}
+
+.HighContrastMode .modal-showtranslation input {
+    background-color: var(--shade-darker-hc);
+}
+
+.HighContrastMode .navigation-node-details {
+    background-color: var(--shade-darker-hc);
+}
